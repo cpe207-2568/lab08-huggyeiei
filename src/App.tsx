@@ -39,7 +39,7 @@ function App() {
       </div>
 
       {/* Footer ด้านล่าง */}
-      <Footer year="2026" fullName="Naphat Chitcharoen" studentId="670610686" />
+      <Footer year="2025" fullName="Naphat Chitcharoen" studentId="670610686" />
     </div>
   );
 }
